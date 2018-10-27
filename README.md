@@ -9,3 +9,4 @@ cd j608_fly_4511
 Then, to create the boot.img:
 ./pack_bootimage.sh
 
+Thank you.
